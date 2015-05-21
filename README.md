@@ -1,5 +1,5 @@
-# ios-project-1-echo
-echo client/server sample code
+# ios-project-1-getfile
+Getfile protocol sample code
 
 ## To get it setup follow these steps:
 1. Download vagrant binary for your OS at [the downloads section on their website](https://www.vagrantup.com/downloads.html)
