@@ -1,3 +1,6 @@
+#include <unistd.h>
+#include "gfserver.h"
+
 /* 
  * Modify this file to implement the interface specified in
  * gfserver.h.
