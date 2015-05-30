@@ -47,6 +47,10 @@ gfstatus_t gfc_get_status(gfcrequest_t *gfr){
 
 }
 
+char* gfc_strstatus(gfstatus_t status){
+
+}
+
 size_t gfc_get_filelen(gfcrequest_t *gfr){
 
 }
